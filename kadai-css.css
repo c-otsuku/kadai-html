@@ -7,7 +7,6 @@ header{
 #main{
     background-color: #ccffcc;
     width: 700px;
-    float: left;
 }
 
 /* #menuの背景色を紫にする */
@@ -23,4 +22,5 @@ footer{
 
 #wrapper {
     display: flex;
+    width: 1000px;
 }
