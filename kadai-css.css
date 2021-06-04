@@ -1,0 +1,26 @@
+header{
+    background-color: #ffcccc;
+    width: 1000px;
+}
+
+/* #mainの背景色を黄緑にする */
+#main{
+    background-color: #ccffcc;
+    width: 700px;
+    float: left;
+}
+
+/* #menuの背景色を紫にする */
+#menu{
+    background-color: #ccccff;
+    width: 300px;
+}
+
+footer{
+    background-color: #ffccff;
+    width: 1000px;
+}
+
+#wrapper {
+    display: flex;
+}
